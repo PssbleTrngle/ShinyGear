@@ -1,0 +1,7 @@
+{
+    "parent": "spartanweaponry:item/longbow_diamond",
+    "textures": {
+        "layer0":"shinygear:items/longbow_0_pulling_1",
+        "layer1":"shinygear:items/longbow_1_pulling_1"
+    }
+}

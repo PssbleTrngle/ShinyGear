@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/lance_wood",
+    "textures": {
+        "layer0":"shinygear:items/lance_0",
+        "layer1":"shinygear:items/lance_1"
+    }
+}

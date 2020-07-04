@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0":"shinygear:items/pickaxe_iron_0",
+        "layer1":"shinygear:items/pickaxe_1"
+    }
+}

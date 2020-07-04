@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/katana_wood",
+    "textures": {
+        "layer0":"shinygear:items/katana_0",
+        "layer1":"shinygear:items/katana_1"
+    }
+}

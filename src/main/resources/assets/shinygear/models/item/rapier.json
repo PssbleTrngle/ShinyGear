@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/rapier_wood",
+    "textures": {
+        "layer0":"shinygear:items/rapier_0",
+        "layer1":"shinygear:items/rapier_1"
+    }
+}

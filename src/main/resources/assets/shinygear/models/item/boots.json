@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "shinygear:items/boots_0",
+        "layer1": "shinygear:items/boots_1"
+    }
+}

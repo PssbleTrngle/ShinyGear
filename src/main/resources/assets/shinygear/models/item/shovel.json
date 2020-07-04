@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0":"shinygear:items/shovel_0",
+        "layer1":"shinygear:items/shovel_1"
+    }
+}

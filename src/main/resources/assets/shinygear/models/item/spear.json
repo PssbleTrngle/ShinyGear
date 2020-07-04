@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/spear_wood",
+    "textures": {
+        "layer0":"shinygear:items/spear_0",
+        "layer1":"shinygear:items/spear_1"
+    }
+}

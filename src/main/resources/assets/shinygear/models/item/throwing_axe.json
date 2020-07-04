@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/throwing_axe_wood",
+    "textures": {
+        "layer0":"shinygear:items/throwing_axe_0",
+        "layer1":"shinygear:items/throwing_axe_1"
+    }
+}

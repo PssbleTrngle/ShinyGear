@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/mace_wood",
+    "textures": {
+        "layer0":"shinygear:items/mace_0",
+        "layer1":"shinygear:items/mace_1"
+    }
+}

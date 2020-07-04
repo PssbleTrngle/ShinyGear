@@ -1,0 +1,7 @@
+{
+    "parent": "spartanweaponry:item/crossbow_wood_pulling_0",
+    "textures": {
+        "layer0": "shinygear:items/crossbow_pulling_0",
+        "layer1": "shinygear:items/crossbow_pulling_1",
+    }
+}

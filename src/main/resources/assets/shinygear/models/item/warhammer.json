@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/warhammer_wood",
+    "textures": {
+        "layer0":"shinygear:items/warhammer_0",
+        "layer1":"shinygear:items/warhammer_1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/boomerang_wood",
+    "textures": {
+        "layer0":"shinygear:items/boomerang_0",
+        "layer1":"shinygear:items/boomerang_1"
+    }
+}

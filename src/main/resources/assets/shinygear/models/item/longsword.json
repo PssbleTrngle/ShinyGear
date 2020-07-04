@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/longsword_wood",
+    "textures": {
+        "layer0":"shinygear:items/longsword_0",
+        "layer1":"shinygear:items/longsword_1"
+    }
+}

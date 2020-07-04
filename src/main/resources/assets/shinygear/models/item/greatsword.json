@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/greatsword_wood",
+    "textures": {
+        "layer0":"shinygear:items/greatsword_0",
+        "layer1":"shinygear:items/greatsword_1"
+    }
+}

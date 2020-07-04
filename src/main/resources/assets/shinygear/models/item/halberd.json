@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/halberd_wood",
+    "textures": {
+        "layer0":"shinygear:items/halberd_0",
+        "layer1":"shinygear:items/halberd_1"
+    }
+}

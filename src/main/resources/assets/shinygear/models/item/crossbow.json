@@ -1,0 +1,43 @@
+{
+    "parent": "spartanweaponry:item/crossbow_wood",
+    "textures": {
+        "layer0":"shinygear:items/crossbow_0_standby",
+        "layer1":"shinygear:items/crossbow_1_standby"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "shinygear:item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "shinygear:item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "shinygear:item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "pulling": 0,
+                "pull": 1.0
+            },
+            "model": "shinygear:item/crossbow_loaded"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "shinygear:item/crossbow_firing"
+        }
+    ]
+}

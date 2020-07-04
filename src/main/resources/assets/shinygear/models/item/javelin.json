@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/javelin_wood",
+    "textures": {
+        "layer0":"shinygear:items/javelin_0",
+        "layer1":"shinygear:items/javelin_1"
+    }
+}

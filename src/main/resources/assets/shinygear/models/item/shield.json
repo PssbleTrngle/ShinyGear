@@ -1,0 +1,15 @@
+{
+    "parent":"shinygear:item/shield_parent",
+    "textures": {
+        "layer0":"shinygear:items/shield_0",
+        "layer1":"shinygear:items/shield_1"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "shinygear:item/shield_blocking"
+        }
+    ]
+}

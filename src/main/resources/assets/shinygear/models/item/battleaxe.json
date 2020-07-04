@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/battleaxe_wood",
+    "textures": {
+        "layer0":"shinygear:items/battleaxe_0",
+        "layer1":"shinygear:items/battleaxe_1"
+    }
+}

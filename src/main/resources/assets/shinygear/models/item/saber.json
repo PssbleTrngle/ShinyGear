@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/saber_wood",
+    "textures": {
+        "layer0":"shinygear:items/saber_0",
+        "layer1":"shinygear:items/saber_1"
+    }
+}

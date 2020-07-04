@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/pike_wood",
+    "textures": {
+        "layer0":"shinygear:items/pike_0",
+        "layer1":"shinygear:items/pike_1"
+    }
+}

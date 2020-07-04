@@ -1,0 +1,7 @@
+{
+    "parent":"spartanweaponry:item/dagger_wood",
+    "textures": {
+        "layer0":"shinygear:items/dagger_0",
+        "layer1":"shinygear:items/dagger_1"
+    }
+}

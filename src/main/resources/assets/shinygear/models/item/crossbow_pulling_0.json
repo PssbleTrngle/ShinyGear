@@ -1,0 +1,7 @@
+{
+    "parent": "spartanweaponry:item/crossbow_diamond",
+    "textures": {
+        "layer0":"shinygear:items/crossbow_0_pulling_0",
+        "layer1":"shinygear:items/crossbow_1_pulling_0"
+    }
+}
