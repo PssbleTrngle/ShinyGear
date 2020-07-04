@@ -28,3 +28,6 @@ src/links
 forge*changelog.txt
 
 node_modules/
+
+dependencies/
+TinkersConstruct-master.zip
